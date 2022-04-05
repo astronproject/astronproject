@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 👋
 
 <!--
 **astronproject/astronproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📚 Faculdade Newton Paiva
+- 👨‍🏫 Turma ADS 2020/1
+- 🎯 Projeto Integrador V
+- 🪐 Astronomia
+- 🔭 JS | NODE | REACT NATIVE | MONGODB
